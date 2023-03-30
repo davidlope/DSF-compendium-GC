@@ -1,12 +1,12 @@
-# README for data used in TBD
+# README for data used in the prediction of boiling and melting points of organic compounds using the UPPER approach by Dr. Samuel Yalkowsky and his lab
 
 ## Overview 
-Data used for manuscript: TBD 
+Data used for manuscript: One boiling and one melting database in .xlsx format created using peer-reviewed papers, NIST, and PUBCHEM.
 
 ***
 
 ## Purpose of the study 
-### To do some science! 
+### To create models that predict physical properties of organic compounds based on structure. 
 
 
 ## Structure of the data
