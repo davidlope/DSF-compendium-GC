@@ -26,6 +26,21 @@ UPPER description: https://pubmed.ncbi.nlm.nih.gov/24909850/
     Python                           # scripts to run in the following order (also see associated README.md)
         └── Batchfragmenter.ipynb    # PYTHON code in JUPYTER Notebooks used to create molecular fragments of compounds based on figure 1 in figures
 
+##Prerequisites
+At least Python 3.6 or access to Google Colab/ Jupyter Notebooks
+To install RDKit, you can find installation instructions below.
+##Installation
+In JUPYTER Notebooks use the following line to install RDKIT:
+!pip install pandas rdkit_pypi
+
+In JUPYTER Notebooks run the following lines:
+import pandas as pd
+from io import StringIO
+from rdkit import Chem
+from collections import Counter
+from rdkit.Chem import rdMolDescriptors, Descriptors3D, AllChem
+from rdkit.Chem.Descriptors import MolWt
+import numpy as np 
 
 # Acknowledgements
 The author is grateful for DAYLIGHT SMILES resources to create the SMARTS fingerprints for fragmentation. This work wouldn't be possible without the work of the RDKit team, as well as Cédric Bouysset and his work on mols2grid. Thanks!
