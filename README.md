@@ -14,7 +14,7 @@ UPPER description: https://pubmed.ncbi.nlm.nih.gov/24909850/
     |
     ├── figures/            # location of the figures produced for the manuscript
     |
-    ├── data/               # database created by the author using peer-reviewed manuscripts, PUBCHEM, and NIST
+    ├── data/               # melting and boiling databases created by the author using peer-reviewed manuscripts, PUBCHEM, and NIST
     │           
     |   
     └── supplementary-materials/
