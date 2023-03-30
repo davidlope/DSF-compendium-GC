@@ -30,17 +30,17 @@ UPPER description: https://pubmed.ncbi.nlm.nih.gov/24909850/
 At least Python 3.6 or access to Google Colab/ Jupyter Notebooks.
 To install RDKit, you can find installation instructions below.
 ## Installation
-In JUPYTER Notebooks use the following line to install RDKIT:
+### In JUPYTER Notebooks use the following line to install RDKIT:
 !pip install pandas rdkit_pypi
 
-In JUPYTER Notebooks run the following lines:
-import pandas as pd
-from io import StringIO
-from rdkit import Chem
-from collections import Counter
-from rdkit.Chem import rdMolDescriptors, Descriptors3D, AllChem
-from rdkit.Chem.Descriptors import MolWt
-import numpy as np 
+### In JUPYTER Notebooks run the following lines:
+#### import pandas as pd
+#### from io import StringIO
+#### from rdkit import Chem
+#### from collections import Counter
+#### from rdkit.Chem import rdMolDescriptors, Descriptors3D, AllChem
+#### from rdkit.Chem.Descriptors import MolWt
+#### import numpy as np 
 
 # Acknowledgements
 The author is grateful for DAYLIGHT SMILES resources to create the SMARTS fingerprints for fragmentation. This work wouldn't be possible without the work of the RDKit team, as well as Cédric Bouysset and his work on mols2grid. Thanks!
