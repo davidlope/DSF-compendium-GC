@@ -43,7 +43,7 @@ To install RDKit, you can find installation instructions below.
 #### import numpy as np 
 
 # Acknowledgements
-The author is grateful for DAYLIGHT SMILES resources to create the SMARTS fingerprints for fragmentation. This work wouldn't be possible without the work of the RDKit team, as well as Cédric Bouysset and his work on mols2grid. Thanks!
+The author is grateful for DAYLIGHT SMILES resources to create the SMARTS fingerprints for fragmentation. Thank you to Dr. Patrick Walters, the RDKit team, as well as Cédric Bouysset and his work on mols2grid. 
 
 # Suggestions and Corrections Welcome
 This is a work in progress. As you can see above, I'm still working on a few of the notebooks. If you find something that should be corrected, please submit an issue or a PR. 
