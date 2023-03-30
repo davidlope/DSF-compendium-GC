@@ -11,8 +11,8 @@ Code and data associated with future manuscript on the prediction of boiling and
     |
     ├── figures/            # location of the figures produced for the manuscript
     |
-    ├── data/
-    │   └── RawData/        # database created by the author using peer-reviewed manuscripts, PUBCHEM, and NIST
+    ├── data/               # database created by the author using peer-reviewed manuscripts, PUBCHEM, and NIST
+    │           
     |   
     └── supplementary-materials/
         ├── Supplementary_Figures/     
