@@ -27,4 +27,20 @@ Note: Column nomenclature if as follows: CAS (Chemical Abstracts Service), dhm a
 * Column12: References of enthalpy data in the order corresponding to the array of values in column 3
 * Column13: References of melting point data in the order corresponding to the array of values in column 4
 
+
+#### boilingdatabase.xlsx
+###### boilingdatabase
+* Column1: CAS (Chemical Abstracts Service) number is a unique and unambiguous identifier for a specific compound.
+* Column2: Name of compound
+* Column3: Array of enthalpy values used for average and standard deviation
+* Column4: Array of boiling point values used for average and standard deviation
+* Column5: Average of values from column 3
+* Column6: Median of enthapy from column 3
+* Column7: Standard deviation of values from column 3
+* Column8: Average of values from column 4
+* Column9: Median of values from column 4
+* Column10: Standard deviation of values from column 4
+* Column11: smile of compound 
+* Column12: References of enthalpy data in the order corresponding to the array of values in column 3
+* Column13: References of boiling point data in the order corresponding to the array of values in column 4
 ***
