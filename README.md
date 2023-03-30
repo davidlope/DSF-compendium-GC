@@ -1,5 +1,5 @@
 # Project Description
-Code and data associated with future manuscript on the prediction of boiling and melting points using the UPPER approach by Dr. Samuel Yalkowsky and his lab
+Code and data associated with future manuscript on the prediction of boiling and melting points of organic compounds using the UPPER approach by Dr. Samuel Yalkowsky and his lab
 
 UPPER description: https://pubmed.ncbi.nlm.nih.gov/24909850/
 
