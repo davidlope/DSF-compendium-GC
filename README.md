@@ -24,6 +24,6 @@ UPPER description: https://pubmed.ncbi.nlm.nih.gov/24909850/
                             # supplementary tables for the main manuscript 
     
     Python                           # scripts to run in the following order (also see associated README.md)
-        └── Batchfragmenter.py       # PYTHON code in JUPYTER Notebooks used to create molecular fragments of compounds based on figure 1 in Supplementary_Figures
+        └── Batchfragmenter.py       # PYTHON code in JUPYTER Notebooks used to create molecular fragments of compounds based on figure 1 in figures
 
 
