@@ -27,7 +27,7 @@ UPPER description: https://pubmed.ncbi.nlm.nih.gov/24909850/
         └── Batchfragmenter.ipynb    # PYTHON code in JUPYTER Notebooks used to create molecular fragments of compounds based on figure 1 in figures
 
 ## Prerequisites
-At least Python 3.6 or access to Google Colab/ Jupyter Notebooks
+At least Python 3.6 or access to Google Colab/ Jupyter Notebooks.
 To install RDKit, you can find installation instructions below.
 ## Installation
 In JUPYTER Notebooks use the following line to install RDKIT:
