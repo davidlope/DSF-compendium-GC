@@ -10,7 +10,15 @@ Data used for manuscript: One boiling and one melting database in .xlsx format c
 
 
 ## Structure of the data
-Note: Column nomenclature if as follows: CAS (Chemical Abstracts Service), dhm at Tm (enthalpy of melting at the melting point), Tm (melting point), dhv at Tb (enthalpy of boiling at the boiling point), Tb (boiling point), SD (standard deviation), smile/smiles (simplified molecular-input line-entry system), Formula is chemical formula if available (will omit since it is unnecessary for the code to work).
+Note: Column nomenclature is as follows:
+CAS (Chemical Abstracts Service), dhm at Tm (enthalpy of melting at the melting point), 
+Tm (melting point), 
+dhv at Tb (enthalpy of boiling at the boiling point), 
+Tb (boiling point), 
+SD (standard deviation), 
+smile/smiles (simplified molecular-input line-entry system), 
+Formula is chemical formula if available (will omit since it is unnecessary for the code to work).
+
 #### Meltingdatabase.xlsx
 ###### Meltingdatabase
 * Column1: CAS (Chemical Abstracts Service) number is a unique and unambiguous identifier for a specific compound.
