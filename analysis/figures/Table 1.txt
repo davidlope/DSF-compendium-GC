@@ -1,0 +1,39 @@
+Table 1: Group Environmental Descriptors used in UPPER (hydrogens implicit)	
+Symbol	Description		
+x^			Group or atom that is not in an aliphatic ring and is bonded only to sp3 hybrid atoms.
+y			Group or atom that is not in an aromatic ring and is bonded to one sp2 hybrid atom.
+yy			Aliphatic atom that is not in a ring and is bonded to two sp2 hybrid atoms.
+yyy			Aliphatic group or atom that is not in a ring and is bonded to three sp2 hybrid atoms.
+yyyy			Aliphatic group or atom that is not in a ring and is bonded to four sp2 hybrid atoms.
+z			Group or atom bonded to a sp hybrid atom. 
+yz 			Group bonded to both sp2 and sp hybrid atoms.		
+a			Atom in an aromatic ring and is bonded to one sp3 hybrid atom.
+aa			Atom in an aromatic ring and is between two aromatic rings.
+aaa			Atom in an aromatic ring and is between three aromatic rings.
+ay			Atom in an aromatic ring and is bonded to one sp2 hybrid atom that is not in an aromatic ring.
+az 			Atom in an aromatic ring and is bonded to one sp hybrid atom.
+bip			Atom in the 2 or 6 position in biphenyl.
+r			Atom in an aliphatic ring.		
+rr			Atom contained between two fused aliphatic rings.
+ar			Atom contained between one aromatic and one aliphatic fused ring system.
+ary			Atom contained between one aromatic and one aliphatic fused ring system and bonded to sp2 hybrid atom that is not in an 			aromatic ring.
+arr			Atom contained between one aromatic and two aliphatic fused rings system.
+ry			Atom in an aliphatic ring not part of a fused ring system and bonded to one sp2 hybrid atom.
+rz			Atom in an aliphatic ring not part of a fused ring system and bonded to one sp hybrid atom.
+ryy			Atom in an aliphatic ring not part of a fused ring system and bonded to two sp2 hybrid atoms.
+rry			Atom contained between two aliphatic rings and bonded to one sp2 hybrid atom.
+rrz			Atom contained between two aliphatic rings and bonded to one sp hybrid atom. 
+rryy			Atom contained between two aliphatic rings and bonded to two sp2 hybrid atoms.
+rryz			Atom contained between two aliphatic rings and bonded to one sp2 and one sp hybrid atoms.
+rryyy			Atom contained between two aliphatic rings and bonded to three sp2 hybrid atoms.
+rrr			Atom contained between three fused aliphatic rings.
+=			Double bond in the group or for terminal sp2 group.
+#     		Triple bond in the group or for terminal sp group.
+rC= 			Atom in an aliphatic ring not part of a fused ring system and contains double bond inside of aliphatic ring.
+rC=*			Atom in an aliphatic ring not part of a fused ring system and contains double bond outside of aliphatic ring. * Denotes 			any atom.
+rrC=			Atom between 2 fused aliphatic rings and contains double bond.
+rryC=			Atom between 2 fused aliphatic rings, contains double bond, and is bonded to one sp2 hybrid atom.
+rryyC=		Atom between 2 fused aliphatic rings, contains double bond, and is bonded to two sp2 hybrid atoms.
+
+^the x can be left out if the group is obviously aliphatic 
+
