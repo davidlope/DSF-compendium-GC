@@ -1,14 +1,6 @@
-# Data Science Institute Data Science Fellows Template Research Compendium
-
+# Project Description
+Code and data associated with future manuscript on the prediction of boiling and melting points using the UPPER approach by Dr. Samuel Yalkowsky and his lab
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-## A compendium of code, data, and author's manuscript accompanying the manuscript:
-
-#### TBD
-
-
-## Overview
-This repository is organized as a reproducible research compendium. Future updates to this compendium will include a Dockerfile and Binder Container
 
 ## File Organization
 
@@ -20,7 +12,7 @@ This repository is organized as a reproducible research compendium. Future updat
     ├── figures/            # location of the figures produced for the manuscript
     |
     ├── data/
-    │   └── RawData/        # data obtained from elsewhere
+    │   └── RawData/        # database created by the author using peer-reviewed manuscripts, PUBCHEM, and NIST
     |   
     └── supplementary-materials/
         ├── Supplementary_Figures/     
@@ -28,11 +20,7 @@ This repository is organized as a reproducible research compendium. Future updat
         └── Supplementary_Tables/      
                             # supplementary tables for the main manuscript 
     
-    R/Python/etc.           # scripts to run in the following order (also see associated README.md)
-        └── Script.R        # hypothetical R script used to wrangle the raw data, produce figures, analyses, and supplementary materials
-
-        
-
-A template `log.md` learners notebook for DSF can be found in [analysis/logs](https://github.com/ua-data7/DSF-template-compendium/tree/main/analysis). 
+    Python                           # scripts to run in the following order (also see associated README.md)
+        └── Batchfragmenter.py       # PYTHON code in JUPYTER Notebooks used to create molecular fragments of compounds based on figure 1 in Supplementary_Figures
 
 
