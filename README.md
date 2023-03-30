@@ -27,3 +27,5 @@ UPPER description: https://pubmed.ncbi.nlm.nih.gov/24909850/
         └── Batchfragmenter.ipynb    # PYTHON code in JUPYTER Notebooks used to create molecular fragments of compounds based on figure 1 in figures
 
 
+# Acknowledgements
+The author is grateful for DAYLIGHT SMILES resources to create the SMARTS fingerprints for fragmentation. This work wouldn't be possible without the work of the RDKit team, as well as Cédric Bouysset and his work on mols2grid. Thanks!
